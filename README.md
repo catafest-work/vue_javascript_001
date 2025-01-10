@@ -100,4 +100,23 @@ added 416 packages, and audited 417 packages in 25s
   run `npm fund` for details
 
 found 0 vulnerabilities
+
+C:\VueProjects\vue_javascript_001>npm install
+
+added 416 packages, and audited 417 packages in 25s
+
+111 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+  VITE v6.0.7  ready in 1494 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  Vue DevTools: Open http://localhost:5173/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+  ➜  press h + enter to show help
+
 ```

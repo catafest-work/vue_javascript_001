@@ -4,6 +4,16 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ![output browser of this template](vue_javascript_001_template.png)
 
+run with default command : 
+
+```
+npm run test:e2e:dev
+```
+
+you can write your cypress test , I wrote my own test with *__cypress__* no other nodejs packages.
+
+the result is the same as the template vue_typescript_001
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
